@@ -1,7 +1,7 @@
 # terraform_module
 
 ### Purpose of the repository 
-- The repository [random_pet repository](https://github.com/nikcbg/terraform_random_pet) as a module source. 
+- The repository uses code from [random_pet repository](https://github.com/nikcbg/terraform_random_pet) as a module source. 
 
 #### List of files in the repository
 
