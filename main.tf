@@ -1,7 +1,7 @@
-module "example" {
+module "random_name" {
   source = "github.com/nikcbg/terraform_random_pet"
 }
 
-output "example1"{
+output "display"{
  value = "${module.example.name}"
 }
