@@ -3,5 +3,5 @@ module "random_name" {
 }
 
 output "display"{
- value = "${module.example.name}"
+ value = "${module.random_name.name}"
 }
